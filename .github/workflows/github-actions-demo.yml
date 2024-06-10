@@ -1,0 +1,8 @@
+# This is a bisic workflow to help you get started with Actions
+
+name: GitHub Actions Demo
+
+# cONTROLS WHEN THE WORKFLOW WILL RUN
+on:
+#Triggers the workflow on push or pull request events but only for the "
+  push:
